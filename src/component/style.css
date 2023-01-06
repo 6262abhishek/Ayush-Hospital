@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right, #2c3e50, #bdc3c7);
+}
+.form{
+    background-color: white;
+    border-radius:5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.form-body{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.form-body>*{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form-input{
+    width: 60%;
+}
+.footer{
+    text-align: center;
+}
+.btn{
+    background-color: gradient(to right, #2c3e50, #bdc3c7);
+    border: 3px bule;
+    display: inline-block;
+    color: blue;
+}
